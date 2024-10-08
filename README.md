@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @MrGard1 a Computer Science teacher at PVHS.
 - 📫 see you in class, or shoot me an email matthew.gardiner@washk12.org
+- Programming, WebDev, DM, CSP
 
 <!---
 MrGard1/MrGard1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
